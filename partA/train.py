@@ -60,7 +60,7 @@ class TransformDataset(Dataset):
     def __len__(self):
         return len(self.dataset)
 
-model = None
+
 train_dataset_dir = "..\\inaturalist_12K\\train"
 test_dataset_dir = "..\\inaturalist_12K\\val"
 def main(config = None, test = False):
