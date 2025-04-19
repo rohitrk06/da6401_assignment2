@@ -1,12 +1,12 @@
 # DA6401: Assignment 2
 submitted by: Rohit Kumar (DA24S003)
 
-## Understanding the Problem
+#### Understanding the Problem
 The goal of this assignment is twofold:
 - Train a CNN model from scratch and learn how to tune hyperparameters to improve the model's performance. And visualize the filters.
 - Fine-tune a pre-trained model
 
-## Allowed Libraries
+#### Allowed Libraries
 - PyTorch
 - torchvision
 - PyTorch Lightning (provided fp16 mixed precision training and wandb integration)
