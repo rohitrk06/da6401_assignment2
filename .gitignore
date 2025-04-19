@@ -1,3 +1,5 @@
 inaturalist_12K
 nature_12K.zip
 .env
+partA/__pycache__
+partB/__pycache__
